@@ -1,0 +1,74 @@
+<html>
+
+<head>
+<title>GCQR Registration Form</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="Namo WebEditor">
+<meta name="description" content="Register your assembly for the upcoming rally.">
+<meta name="namo-theme" content="UserLib\custom\Theme\Triangle Clips">
+<style><!--
+body { color:rgb(23,32,78); font-family:±¼¸²;}
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:rgb(26,67,85); font-size:12pt; font-family:±¼¸²;}
+h2 { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-list { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-sublist { color:rgb(43,43,31); font-size:10pt; font-family:±¼¸²;}
+a:link {}
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+--></style>
+<script language="JavaScript">
+<!--
+function na_open_window(name, url, left, top, width, height, toolbar, menubar, statusbar, scrollbar, resizable)
+{
+  toolbar_str = toolbar ? 'yes' : 'no';
+  menubar_str = menubar ? 'yes' : 'no';
+  statusbar_str = statusbar ? 'yes' : 'no';
+  scrollbar_str = scrollbar ? 'yes' : 'no';
+  resizable_str = resizable ? 'yes' : 'no';
+
+  cookie_str = document.cookie;
+  cookie_str.toString();
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_end    = cookie_str.indexOf('=', pos_start);
+
+  cookie_name = cookie_str.substring(pos_start, pos_end);
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_start  = cookie_str.indexOf('=', pos_start);
+  pos_end    = cookie_str.indexOf(';', pos_start);
+  
+  if (pos_end <= 0) pos_end = cookie_str.length;
+  cookie_val = cookie_str.substring(pos_start + 1, pos_end);
+  if (cookie_name == name && cookie_val  == "done")
+    return;
+
+  window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<form name="form1" method="post" action="mailto:registrar@gcqr.org?subject=Registration Form for GCQR 2008 Fall Rally" enctype="text/plain">
+    <table width="50%" align="center" bordercolordark="#7E7F7A" bordercolorlight="#7E7F7A" border="1" class="namo-table" cellpadding="5" cellspacing="5">
+        <tr>
+                        <th width="740" class="namo-th" bgcolor="#999999">
+<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dEhNZDJ2VHU3NGNxSmNPLWtxN0ZBUmc6MQ" width="760" height="1386" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</th>
+        </tr>
+        <tr>
+                        <th width="740" class="namo-th" bgcolor="yellow">
+                            <p align="center"><a href="javascript:na_open_window('map', 'http://maps.google.com/maps?oe=utf-8&client=firefox-a&ie=UTF8&q=lookup+lodge&fb=1&gl=us&hq=lookup+lodge&hl=en&view=map&f=d&daddr=100+Look+Up+Lodge+Road,+Travelers+Rest,+SC+29690-9146&geocode=CUiuZwl4UOjjFf2ZFwIdSmoW-yH4kdcCYuqzJA&ved=0CG8Q_wY&sa=X&ei=KI', 0, 0, 1024, 768, 1, 1, 0, 1, 1)" target="_self">Click 
+                here to find out how far it is to the Rally location</a></th>
+        </tr>
+    </table>
+</form>
+            <p align="center"><a href="coaches.html"><img src="graphics/nth_userlib_custom_theme_triangle_clips_back.gif" border="0" alt="Click here to return to the For Teams page." class="namo-backward"></a>&nbsp;After 
+sending this form, <a href="coaches.html">click here to return to the GCQR site</a>.</p>
+</body>
+
+</html>

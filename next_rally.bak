@@ -1,0 +1,122 @@
+<html>
+
+<head>
+<title>Upcoming Rally</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor v5.0">
+<meta name="description" content="Information on the next quiz rally">
+<meta name="namo-theme" content="UserLib\custom\Theme\Triangle Clips">
+<style><!--
+body { color:rgb(23,32,78); font-family:±¼¸²;}
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:rgb(26,67,85); font-size:12pt; font-family:±¼¸²;}
+h2 { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-list { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-sublist { color:rgb(43,43,31); font-size:10pt; font-family:±¼¸²;}
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+a:link {}
+--></style>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<p align="center">&nbsp;</p>
+<table border="0" width="760" align="center" bgcolor="#CCCCCC">
+    <tr>
+        <td width="144">
+            <p align="center">GC<br>QR</p>
+        </td>
+        <td width="462"><font size="5"><b><!--NAMO_NAVBAR_START B H C       -1 37 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_37_next_rally_bhb.gif" name="nav_next_rally_BH0" 
+border="0" class="namo-banner" alt="Next Rally" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></b></font></td>
+        <td width="144">
+            <p><font size="2">Insert contents.</font></p>
+            <p><font size="2">&nbsp;</font></p>
+        </td>
+    </tr>
+</table>
+<table border="0" width="760" align="center">
+    <tr>
+        <td width="750"><!--NAMO_NAVBAR_START S H C       -1 38 3 5 4 6 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_next_rally_SH0', 'document', 'nav/nav_38_index_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_next_rally_SH0', 'document');"><img src="nav/nav_38_index_sh.gif" name="nav_next_rally_SH0" 
+border="0" class="namo-button2" alt="Home" align="texttop"></a><a href="about.html"  
+onmouseover="na_change_img_src('nav_next_rally_SH1', 'document', 'nav/nav_38_about_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_next_rally_SH1', 'document');"><img src="nav/nav_38_about_sh.gif" name="nav_next_rally_SH1" 
+border="0" class="namo-button2" alt="About GCQR" align="texttop"></a><img src="nav/nav_38_next_rally_shh.gif" name="nav_next_rally_SH2" 
+border="0" class="namo-hibutton2" alt="Next Rally" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></td>
+    </tr>
+</table>
+<hr size="1" width="760" align="center">
+<table width="760" cellpadding="0" cellspacing="5" align="center">
+    <tr>
+        <td width="400" valign="top">
+            <p><font size="4">Enter a title.</font></p>
+            <p>Insert contents.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <hr size="1" width="395" align="left"><!--NAMO_NAVBAR_START C v         -1 39 3 5 4 6 -->
+<div style="line-height:150%">
+</div>
+<!--NAMO_NAVBAR_END--></td>
+        <td width="200" valign="top" bgcolor="white" bordercolor="white">
+            <p><img src="graphics/graphic1.jpg" width="200" height="400" border="0" align="top"></p>
+        </td>
+        <td width="150" valign="top" bgcolor="#CCCCCC" style="padding-top:0px; padding-right:3px; padding-bottom:0px; padding-left:3px;">
+            <h2>Psalm 119:9-11</h2>
+            <p style="margin-bottom:0;">How can a young man keep his way pure? 
+            By guarding it according to your word.&nbsp;With my whole heart 
+            I seek you; let me not wander from your commandments!</p>
+            <address style="margin-top:0;">
+            <font color="maroon">I have stored up your word in my heart, that 
+            I might not sin against you.</font>
+            </address>
+        </td>
+    </tr>
+</table>
+<table border="0" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td width="750" bgcolor="#CCCCCC" bordercolor="white">
+            <p align="center"><font size="2">Insert contents.<br>Insert contents.</font></p>
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>

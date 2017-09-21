@@ -1,0 +1,128 @@
+<html>
+
+<head>
+<title>About GCQR</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor">
+<meta name="description" content="Background on the quiz rallies">
+<meta name="namo-theme" content="Theme\Vector\Triangle Clips">
+<style><!--
+body { background-color:white; color:#17204E; font-family:±¼¸²; }
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:#1A4355; font-family:±¼¸²; font-size:12; }
+h2 { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-list { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-sublist { color:#2B2B1F; font-family:±¼¸²; font-size:10; }
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+table.namo-table { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table td { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table th { background-color:#BABABA; border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+span.namo-link, a:link { color:#00338D; text-decoration:underline; }
+span.namo-visited, a:visited { color:#00338D; }
+span.namo-active, a:active { color:#00BEFD; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+--></style>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<table border="0" width="760" align="center" cellspacing="5">
+    <tr>
+        <td width="760" align="center"><font size="5"><b><!--NAMO_NAVBAR_START B H C       -1 44 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_44_about_bhb.gif" name="nav_about_BH0" 
+border="0" class="namo-banner" alt="About GCQR" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></b></font></td>
+    </tr>
+</table>
+<table border="0" width="750" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="760" bgcolor="#CCCCCC"><!--NAMO_NAVBAR_START S H C h     127 43 3 5 4 6 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_about_SH0', 'document', 'nav/nav_43_index_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_about_SH0', 'document');"><img src="nav/nav_43_index_sh.gif" name="nav_about_SH0" 
+border="0" class="namo-button2" alt="Home" align="texttop"></a><img src="nav/nav_43_about_shh.gif" name="nav_about_SH1" 
+border="0" class="namo-hibutton2" alt="About GCQR" align="texttop"><a href="next.html"  
+onmouseover="na_change_img_src('nav_about_SH2', 'document', 'nav/nav_43_next_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_about_SH2', 'document');"><img src="nav/nav_43_next_sh.gif" name="nav_about_SH2" 
+border="0" class="namo-button2" alt="Next Rally" align="texttop"></a><a href="past.html"  
+onmouseover="na_change_img_src('nav_about_SH3', 'document', 'nav/nav_43_past_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_about_SH3', 'document');"><img src="nav/nav_43_past_sh.gif" name="nav_about_SH3" 
+border="0" class="namo-button2" alt="Past Rallies" align="texttop"></a><a href="coaches.html"  
+onmouseover="na_change_img_src('nav_about_SH4', 'document', 'nav/nav_43_coaches_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_about_SH4', 'document');"><img src="nav/nav_43_coaches_sh.gif" name="nav_about_SH4" 
+border="0" class="namo-button2" alt="Coaches" align="texttop"></a><a href="links.html"  
+onmouseover="na_change_img_src('nav_about_SH5', 'document', 'nav/nav_43_links_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_about_SH5', 'document');"><img src="nav/nav_43_links_sh.gif" name="nav_about_SH5" 
+border="0" class="namo-button2" alt="Links" align="texttop"></a></div>
+<!--NAMO_NAVBAR_END--></td>
+    </tr>
+</table>
+<table width="760" cellpadding="0" cellspacing="5" align="center">
+    <tr>
+        <td width="400" valign="middle" bgcolor="#F0F0F0" style="padding:5;">
+            <h1>What is the  Georgia Carolina Quiz Rally?</h1>
+            <p>A quiz rally is a gathering of local churches from Georgia and 
+            the Carolinas in order for young people to compete in quizzing over 
+            a pre-determined and studied passage from the Bible.</p>
+            <p>A Quizmaster asks questions which can often only be answered 
+            using a very commanding memory of the exact phrasing of the passage, 
+            sometimes including word-perfect quotations.</p>
+            <p>Though the quizzing is the main focus, there is also time for 
+            food and fellowship, and the Word is preached at some point during 
+            the day.</p>
+            <p>There is a Spring and a&nbsp;Fall rally&nbsp;which are hosted 
+            by participating assemblies in rotation.</p>
+</td>
+        <td width="200" valign="top" bgcolor="white" bordercolor="white">
+            <p><img src="graphics/graphic1.jpg" width="200" height="400" border="0" align="top"></p>
+        </td>
+        <td width="150" valign="middle" bgcolor="#FCB57D" style="padding-top:0px; padding-right:3px; padding-bottom:0px; padding-left:3px;">
+            <h2>Psalm 119:9-11</h2>
+            <p style="margin-bottom:0;">How can a young man keep his way pure? 
+            By guarding it according to your word.&nbsp;With my whole heart 
+            I seek you; let me not wander from your commandments!</p>
+            <p style="margin-bottom:0;"><font color="#330099">I have stored up your word in my heart, that 
+            I might not sin against you.</font></p>
+        </td>
+    </tr>
+</table>
+<table border="0" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td width="750" bgcolor="#CCCCCC" bordercolor="white">
+            <p align="center" style="margin-top:0; margin-bottom:0;"><img src="graphics/GCQR.jpg" width="720" height="180" border="0"></p>
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>

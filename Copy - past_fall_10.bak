@@ -1,0 +1,392 @@
+<html>
+
+<head>
+<title>Past Rallies - Fall 2010</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor">
+<meta name="description" content="Results from the last quiz rally">
+<meta name="namo-theme" content="Theme\Vector\Triangle Clips">
+<style><!--
+body { background-color:white; color:#17204E; font-family:±¼¸²; }
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:#1A4355; font-family:±¼¸²; font-size:12; }
+h2 { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-list { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-sublist { color:#2B2B1F; font-family:±¼¸²; font-size:10; }
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+table.namo-table { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table td { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table th { background-color:#BABABA; border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+span.namo-link, a:link { color:#00338D; text-decoration:underline; }
+span.namo-visited, a:visited { color:#00338D; }
+span.namo-active, a:active { color:#00BEFD; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+--></style>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<table border="0" width="760" align="center" cellspacing="5">
+    <tr>
+        <td width="760" align="center"><font size="5"><b><!--NAMO_NAVBAR_START B H C       -1 44 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_44_past_fall_10_bhb.gif" name="nav_past_fall_10_BH0" 
+border="0" class="namo-banner" alt="Fall 2010" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></b></font></td>
+    </tr>
+</table>
+<table border="0" width="750" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="760" bgcolor="#CCCCCC"><!--NAMO_NAVBAR_START S H C h     127 43 3 5 4 6 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH0', 'document', 'nav/nav_43_index_btn_homer.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH0', 'document');"><img src="nav/nav_43_index_btn_home.gif" name="nav_past_fall_10_SH0" 
+border="0" class="namo-button2" alt="Home" align="texttop"></a><a href="past_spring_08.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH1', 'document', 'nav/nav_43_past_spring_08_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH1', 'document');"><img src="nav/nav_43_past_spring_08_sh.gif" name="nav_past_fall_10_SH1" 
+border="0" class="namo-button2" alt="Spring 2008" align="texttop"></a><a href="past_fall_08.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH2', 'document', 'nav/nav_43_past_fall_08_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH2', 'document');"><img src="nav/nav_43_past_fall_08_sh.gif" name="nav_past_fall_10_SH2" 
+border="0" class="namo-button2" alt="Fall 2008" align="texttop"></a><img src="nav/nav_43_past_fall_10_shh.gif" name="nav_past_fall_10_SH3" 
+border="0" class="namo-hibutton2" alt="Fall 2010" align="texttop"><a href="past_spring_11.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH4', 'document', 'nav/nav_43_past_spring_11_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH4', 'document');"><img src="nav/nav_43_past_spring_11_sh.gif" name="nav_past_fall_10_SH4" 
+border="0" class="namo-button2" alt="Spring 2011" align="texttop"></a><a href="past_fall_2011.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH5', 'document', 'nav/nav_43_past_fall_2011_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH5', 'document');"><img src="nav/nav_43_past_fall_2011_sh.gif" name="nav_past_fall_10_SH5" 
+border="0" class="namo-button2" alt="Fall 2011" align="texttop"></a><a href="past_spring_12.html"  
+onmouseover="na_change_img_src('nav_past_fall_10_SH6', 'document', 'nav/nav_43_past_spring_12_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_10_SH6', 'document');"><img src="nav/nav_43_past_spring_12_sh.gif" name="nav_past_fall_10_SH6" 
+border="0" class="namo-button2" alt="Spring 2012" align="texttop"></a></div>
+<!--NAMO_NAVBAR_END--></td>
+    </tr>
+</table>
+<table width="760" cellpadding="0" cellspacing="5" align="center">
+    <tr>
+        <td width="400" valign="middle" bgcolor="#F0F0F0" style="padding:5;">
+            <h1>Fall '10 Quiz Rally</h1>
+            <p>The Fall&nbsp;Rally                                     presented a beautiful day at a gorgeous facility - Lookup Lodge. The quizzers were prepared, as usual, and competition was tight. Thanks for all the effort from our coaches and quizzers. For complete 
+            results from the Fall&nbsp;Rally, scroll down to the table at the bottom 
+            of this page or simply <a href="#Results">click here</a>.</p>
+</td>
+        <td width="200" valign="top" bgcolor="white" bordercolor="white">
+            <p><img src="graphics/graphic10.jpg" width="200" height="400" border="0"></p>
+        </td>
+        <td width="150" valign="middle" bgcolor="#FF8989" style="padding-top:0px; padding-right:3px; padding-bottom:0px; padding-left:3px;">
+            <h2>2011 Fall&nbsp;Results<br>at a glance:</h2>
+            <p style="margin-top:0; margin-bottom:0;">Overall Winners:</p>
+            <address style="margin-top:0;">
+Overbrook
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Senior Quiz Champs:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Concord
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Junior Quiz Champs:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Lakeside
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Individual Leaders:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Senior - <br>Abigail Fowler and Whitney Landis
+            </address>
+            <address style="margin-top:0; margin-bottom:0;">
+Junior -<br>Katelyn Groover
+            </address>
+        </td>
+    </tr>
+</table>
+<table border="0" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td width="750" bgcolor="#CCCCCC" bordercolor="white">
+            <p align="center"><img src="graphics/GCQR.jpg" width="720" height="180" border="0"></p>
+        </td>
+    </tr>
+</table>
+<table style="margin-top:5;" align="center" border="0" width="750" bgcolor="#F0F0F0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="750">
+            <h3 style="margin-top:6; margin-bottom:6;" align="center"><a name="Results"></a>Fall 
+            2010 Quiz Rally - Complete Results</h3>
+            <table border="1" cellspacing="0" width="748" bordercolordark="white" bordercolorlight="black" style="margin-top:0; margin-bottom:0;" align="center" cellpadding="2">
+ <tr height=17 style='height:12.75pt'>
+                    <th height=17 class=xl22 width="25%" style='height:12.75pt;width:101pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4 style="margin-top:0; margin-bottom:0;">Description</h4>
+                    </th>
+                    <th class=xl22 width="182" style='width:49pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4 style="margin-top:0; margin-bottom:0;">Award</h4>
+                    </th>
+                    <th class=xl22 width="26%" style='width:101pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4 style="margin-top:0; margin-bottom:0;">Name / Pts</h4>
+                    </th>
+                    <th class=xl22 width="22%" style='width:92pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4 style="margin-top:0; margin-bottom:0;">Comments</h4>
+                    </th>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="25%">Junior Individual - 1st</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="182">Small Trophy</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="26%">Katelyn 
+                        Groover / 200</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Junior
+  Individual - 2nd</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Certificate</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">Isaac Aliaga&nbsp;/ 140</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Junior
+  Individual - 3rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Certificate</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">                        Micah Nguyen&nbsp;/ 80</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="740" colspan="4">
+                        <p><i>Junior Quizzers that passed the Written Test</i></p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>?</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>?</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="25%">Senior Individual - 1st</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="182">Small Trophy</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="26%">Abigail 
+                        Fowler / 230</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="22%">Tie</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Senior
+  Individual - 1st</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Small Trophy</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">                        Whitney Landis&nbsp;/ 230</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">Tie</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Senior
+  Individual - 3rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Certificate</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">                        Madison Beggs&nbsp;/ 120</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="740" colspan="4">
+                        <p><i>Senior Quizzers that passed the Written Test</i></p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>?</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>?</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="374" colspan="2">
+                        <p>J</p>
+</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="360" colspan="2">
+                        <p>&nbsp;</p>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="25%">Junior Team - 1st</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="182">Certificate</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="26%">Lakeside</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Junior Team -
+  2nd</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Mention</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">Overbrook</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="25%">Senior Team - 1st</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="182">Certificate</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="26%">Concord</td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%">Senior Team -
+  2nd</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182">Mention</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%">Overbrook</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="11" style='height:12.75pt' align="center" valign="top" bgcolor="#CCCCCC" width="25%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td height="11" align="center" valign="top" bgcolor="#CCCCCC" width="182"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td height="11" align="center" valign="top" bgcolor="#CCCCCC" width="26%"><span style="font-size:8pt;">&nbsp;</span></td>
+  <td height="11" align="center" valign="top" bgcolor="#CCCCCC" width="22%"><span style="font-size:8pt;">&nbsp;</span></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt' align="center" valign="top" width="25%"><b>Assembly - 1st</b></td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="182"><b>Plaque</b></td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="26%"><b>Overbrook / 67.2</b></td>
+  <td class=xl23 style='border-left:none' align="center" valign="top" width="22%"><b>&nbsp;</b></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%"><b>Assembly -
+  2nd</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182"><b>Certificate</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%"><b>Lakeside / 62.8</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%"><b>&nbsp;</b></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' align="center" valign="top" width="25%"><b>Assembly -
+  3rd</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="182"><b>Certificate</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="26%"><b>Concord / 60.5</b></td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top" width="22%"><b>&nbsp;</b></td>
+ </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<p style="margin-top:5;" align="center">&nbsp;</p>
+</body>
+
+</html>

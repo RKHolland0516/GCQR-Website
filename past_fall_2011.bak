@@ -1,0 +1,1064 @@
+<html>
+
+<head>
+<title>Past Rallies</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor">
+<meta name="description" content="Results from the last quiz rally">
+<meta name="namo-theme" content="Theme\Vector\Triangle Clips">
+<style><!--
+body { background-color:white; color:#17204E; font-family:±¼¸²; }
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:#1A4355; font-family:±¼¸²; font-size:12; }
+h2 { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-list { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-sublist { color:#2B2B1F; font-family:±¼¸²; font-size:10; }
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+table.namo-table { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table td { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table th { background-color:#BABABA; border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+span.namo-link, a:link { color:#00338D; text-decoration:underline; }
+span.namo-visited, a:visited { color:#00338D; }
+span.namo-active, a:active { color:#00BEFD; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+--></style>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<table border="0" width="760" align="center" cellspacing="5">
+    <tr>
+        <td width="760" align="center"><font size="5"><b><!--NAMO_NAVBAR_START B H C       -1 44 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_44_past_fall_2011_bhb.gif" name="nav_past_fall_2011_BH0" 
+border="0" class="namo-banner" alt="2011 Fall" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></b></font></td>
+    </tr>
+</table>
+<table border="0" width="750" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="760" bgcolor="#CCCCCC"><!--NAMO_NAVBAR_START S H C h     127 43 3 5 4 6 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_past_fall_2011_SH0', 'document', 'nav/nav_43_index_btn_homer.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_2011_SH0', 'document');"><img src="nav/nav_43_index_btn_home.gif" name="nav_past_fall_2011_SH0" 
+border="0" class="namo-button2" alt="Home" align="texttop"></a><a href="past_fall_10.html"  
+onmouseover="na_change_img_src('nav_past_fall_2011_SH1', 'document', 'nav/nav_43_past_fall_10_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_2011_SH1', 'document');"><img src="nav/nav_43_past_fall_10_sh.gif" name="nav_past_fall_2011_SH1" 
+border="0" class="namo-button2" alt="2010 Fall" align="texttop"></a><a href="past_spring_11.html"  
+onmouseover="na_change_img_src('nav_past_fall_2011_SH2', 'document', 'nav/nav_43_past_spring_11_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_2011_SH2', 'document');"><img src="nav/nav_43_past_spring_11_sh.gif" name="nav_past_fall_2011_SH2" 
+border="0" class="namo-button2" alt="2011 Spring" align="texttop"></a><img src="nav/nav_43_past_fall_2011_shh.gif" name="nav_past_fall_2011_SH3" 
+border="0" class="namo-hibutton2" alt="2011 Fall" align="texttop"><a href="past_spring_12.html"  
+onmouseover="na_change_img_src('nav_past_fall_2011_SH4', 'document', 'nav/nav_43_past_spring_12_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_2011_SH4', 'document');"><img src="nav/nav_43_past_spring_12_sh.gif" name="nav_past_fall_2011_SH4" 
+border="0" class="namo-button2" alt="2012 Spring" align="texttop"></a><a href="past_fall_12.html"  
+onmouseover="na_change_img_src('nav_past_fall_2011_SH5', 'document', 'nav/nav_43_past_fall_12_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_past_fall_2011_SH5', 'document');"><img src="nav/nav_43_past_fall_12_sh.gif" name="nav_past_fall_2011_SH5" 
+border="0" class="namo-button2" alt="2012 Fall" align="texttop"></a></div>
+<!--NAMO_NAVBAR_END--></td>
+    </tr>
+</table>
+<table width="760" cellpadding="0" cellspacing="5" align="center">
+    <tr>
+        <td width="400" valign="middle" bgcolor="#F0F0F0" style="padding:5;">
+            <h1>Fall '11 Quiz Rally</h1>
+            <p>Thanks for all the effort from our coaches and quizzers. For complete 
+            results from the Fall&nbsp;Rally, scroll down to the table at the bottom 
+            of this page or simply <a href="../GCQR">click here</a>.</p>
+<!--NAMO_NAVBAR_START C h         -1 43 41 42 4 6 -->
+<div>
+</div>
+<!--NAMO_NAVBAR_END--></td>
+        <td width="200" valign="top" bgcolor="white" bordercolor="white">
+            <p><img src="graphics/graphic10.jpg" width="200" height="400" border="0"></p>
+        </td>
+        <td width="150" valign="middle" bgcolor="#FF8989" style="padding-top:0px; padding-right:3px; padding-bottom:0px; padding-left:3px;">
+            <h2>2011 Spring&nbsp;Results<br>at a glance:</h2>
+            <p style="margin-top:0; margin-bottom:0;">Overall Winners:</p>
+            <address style="margin-top:0;">
+Lakeside
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Senior Quiz Champs:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Overbrook
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Junior Quiz Champs:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Lakeside
+            </address>
+            <p style="margin-top:12; margin-bottom:0;">Individual Leaders:</p>
+            <address style="margin-top:0; margin-bottom:0;">
+Senior - <br>Abigail Fowler
+            </address>
+            <address style="margin-top:0; margin-bottom:0;">
+Junior -<br>Nathan Hanneman
+            </address>
+        </td>
+    </tr>
+</table>
+<table border="0" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td width="750" bgcolor="#CCCCCC" bordercolor="white">
+            <p align="center"><img src="graphics/GCQR.jpg" width="720" height="180" border="0"></p>
+        </td>
+    </tr>
+</table>
+<table style="margin-top:5;" align="center" border="0" width="750" bgcolor="#F0F0F0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="750">
+            <h3 style="margin-top:6; margin-bottom:6;" align="center"><a name="Results"></a>Fall 
+            2011 Quiz Rally - Complete Results</h3>
+            <table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;">
+                <tr>
+                    <td width="363" height="21" align="center" valign="bottom" bgcolor="silver" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;">&nbsp;</td>
+                </tr>
+            </table>
+            <table border="0" cellpadding="0" cellspacing="0" width="750" style="border-collapse:collapse;" namo_sheet=":EmbededSheet001">
+                <tr>
+                    <td width="466" height="21" align="center" valign="top" colspan="4" bgcolor="silver" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:12pt;"><b>Fall Awards</b></span></font></td>
+                    <td width="46" height="21" align="left" valign="top">&nbsp;</td>
+                    <td width="243" height="21" align="center" valign="top" colspan="2" bgcolor="silver" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Written Test Passers</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="18" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Assembly</b></span></font></td>
+                    <td width="48" height="18" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="18" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="center" valign="top" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Jrs</b></span></font></td>
+                    <td width="118" height="18" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Srs</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Plaque</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-top-width:1; border-left-width:1; border-top-color:black; border-left-color:black; border-top-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Believers</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-top-width:1; border-right-width:1; border-top-color:black; border-right-color:black; border-top-style:solid; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Believers</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Overbrook</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Savannah Vaugh</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Kelly Mauldin</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Believers</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Jackson Corbitt</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lee Mauldin</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Senior Team</b></span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Concord</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Concord</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Abigail McKibben</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Mention</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;">Believers / Overbrook</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top" style="border-top-width:1; border-top-color:black; border-top-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-top-width:1; border-right-width:1; border-top-color:black; border-right-color:black; border-top-style:solid; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Lakeside</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Lakeside</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Junior Team</b></span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Nathan Hanneman</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Anna Groover</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Luke Nichols</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Jacob Hanneman</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Mention</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;">Concord</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Daniel Groover</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Olivia Nichols</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top" style="border-top-width:1; border-top-color:black; border-top-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-top-width:1; border-right-width:1; border-top-color:black; border-right-color:black; border-top-style:solid; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Senior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Overbrook</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Overbrook</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Small trophy</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">230</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Laura Groover</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Noah Gustafson</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Hanna Wortman</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">150</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Jacob Hanneman</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Ramon Barreiro</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Bekah Ahr</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">100</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Kelly Mauldin/Leah Bareiro</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Jessica Bareiro</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="center" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Junior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Martinez</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Martinez</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Small trophy</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">230</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Katelyn Groover</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Andrew Boudet</span></font></td>
+                    <td width="118" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">190</span></font></td>
+                    <td width="199" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Molly Landis</span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Janna Barinowski</span></font></td>
+                    <td width="118" height="18" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">120</span></font></td>
+                    <td width="199" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Nathan Hanneman</span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="18" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="110" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="46" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="0" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="0" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="110" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="48" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="199" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="118" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="466" height="21" align="center" valign="top" colspan="4" bgcolor="silver" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:12pt;"><b>Spring Awards</b></span></font></td>
+                    <td width="46" height="21" align="left" valign="top">&nbsp;</td>
+                    <td width="243" height="21" align="center" valign="top" colspan="2" bgcolor="silver" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Written Test Passers</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="18" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Assembly</b></span></font></td>
+                    <td width="48" height="18" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="18" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="center" valign="top" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Jrs</b></span></font></td>
+                    <td width="118" height="18" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Srs</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Plaque</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Believers</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Believers</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Overbrook</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Nick Young</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lee Mauldin</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Concord</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Caleb Corbett</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Brian Mauldin</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Daniel Holland</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Senior Team</b></span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Overbrook</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Concord</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Concord</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Mention</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Micah Nguyen</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Johnny Landis</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top" style="border-top-width:1; border-top-color:black; border-top-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-top-width:1; border-right-width:1; border-top-color:black; border-right-color:black; border-top-style:solid; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Molly Landis</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Daniel Nguyen</span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Junior Team</b></span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Jessica Howard</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Mention</span></font></td>
+                    <td width="247" height="17" align="center" valign="top" colspan="2" style="border-top-width:1; border-right-width:1; border-left-width:1; border-top-color:black; border-right-color:black; border-left-color:black; border-top-style:solid; border-right-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;">Marietta</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Lakeside</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Lakeside</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top" style="border-top-width:1; border-top-color:black; border-top-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-top-width:1; border-right-width:1; border-top-color:black; border-right-color:black; border-top-style:solid; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Ansley Beggs</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Laura Groover</span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Senior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Luke Nichols</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Anna Groover</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Small trophy</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">230</span></font></td>
+                    <td width="199" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Abigail Fowler</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Daniel Groover</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Olivia Nichols</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Small trophy</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">230</span></font></td>
+                    <td width="199" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Ashley Groover</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">140</span></font></td>
+                    <td width="199" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Daniel Nguyen</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Marietta</b></span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Marietta</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Anna Nastase</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lucy Stone</span></font></td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Junior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Shirley Budala</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Enosh Budala</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Small trophy</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">180</span></font></td>
+                    <td width="199" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Nathan Hanneman</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Micah Stone</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">160</span></font></td>
+                    <td width="199" height="17" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Micah Nguyen</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;">&nbsp;</td>
+                    <td width="118" height="17" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="18" align="right" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">150</span></font></td>
+                    <td width="199" height="18" align="left" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Anna Nastase</span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="center" valign="top" style="border-left-width:1; border-left-color:black; border-left-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Overbrook</b></span></font></td>
+                    <td width="118" height="18" align="center" valign="top" style="border-right-width:1; border-right-color:black; border-right-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Overbrook</b></span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Olivia Wortman</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Anna Fowler</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Noah Gustafson</span></font></td>
+                    <td width="118" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Leah Barreiro</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="110" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="48" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="199" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Ramon Barreiro</span></font></td>
+                    <td width="118" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Hannah Barreiro</span></font></td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="110" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="48" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="199" height="18" align="left" valign="top" style="border-bottom-width:1; border-bottom-color:black; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="18" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="466" height="21" align="center" valign="top" colspan="4" bgcolor="silver" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:12pt;"><b>Year Awards*</b></span></font></td>
+                    <td width="46" height="21" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="21" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="21" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Year</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Points</b></span></font></td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Name</b></span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">The Trophy</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Lakeside</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Overbrook</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Believers</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Senior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Larger trophy</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">350</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Laura Groover</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">230</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Ashley Groover / Abigail Fowler</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="left" valign="top" style="border-bottom-width:1; border-left-width:1; border-bottom-color:black; border-left-color:black; border-bottom-style:solid; border-left-style:solid;">&nbsp;</td>
+                    <td width="110" height="17" align="left" valign="top" style="border-right-width:1; border-bottom-width:1; border-right-color:black; border-bottom-color:black; border-right-style:solid; border-bottom-style:solid;">&nbsp;</td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="219" height="17" align="center" valign="top" colspan="2" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>Junior Quizzer</b></span></font></td>
+                    <td width="48" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="199" height="17" align="center" valign="top" bgcolor="yellow" style="border-width:1; border-color:black; border-style:solid;">&nbsp;</td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>1st Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Larger trophy</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">330</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Katelyn Groover</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>2nd Place</b></span></font></td>
+                    <td width="110" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">300</span></font></td>
+                    <td width="199" height="17" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Nathan Hanneman</span></font></td>
+                    <td width="46" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="17" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="17" align="left" valign="top">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td width="109" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;"><b>3rd Place</b></span></font></td>
+                    <td width="110" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Certificate</span></font></td>
+                    <td width="48" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">270</span></font></td>
+                    <td width="199" height="18" align="center" valign="top" style="border-width:1; border-color:black; border-style:solid;"><font face="Arial"><span style="font-size:10pt;">Molly Landis</span></font></td>
+                    <td width="46" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="125" height="18" align="left" valign="top">&nbsp;</td>
+                    <td width="118" height="18" align="left" valign="top">&nbsp;</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<p style="margin-top:5;" align="center">&nbsp;</p>
+</body>
+<!--Namo WebEditor Data 4.0
+:EmbededSheet001
+00016400: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
+/B+/sL4o=
+-->
+
+</html>

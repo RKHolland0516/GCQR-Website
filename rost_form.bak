@@ -1,0 +1,223 @@
+<html>
+
+<head>
+<title>GCQR Fall 2008 Registration Form</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="Namo WebEditor v5.0">
+<meta name="description" content="Register your assembly for the fall rally.">
+<meta name="namo-theme" content="Theme\Vector\Triangle Clips">
+<style><!--
+body { background-color:white; color:#17204E; font-family:±¼¸²; }
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:#1A4355; font-family:±¼¸²; font-size:12; }
+h2 { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-list { color:#2B2B1F; font-family:±¼¸²; font-size:12; }
+p.namo-sublist { color:#2B2B1F; font-family:±¼¸²; font-size:10; }
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+table.namo-table { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table td { border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+table.namo-table th { background-color:#BABABA; border-left-color:#7E7F7A; border-top-color:#7E7F7A; border-right-color:#7E7F7A; border-bottom-color:#7E7F7A; }
+span.namo-link, a:link { color:#00338D; text-decoration:underline; }
+span.namo-visited, a:visited { color:#00338D; }
+span.namo-active, a:active { color:#00BEFD; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+--></style>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<form name="form1" method="post" action="mailto:registrar@gcqr.org?subject=Team Roster Form for GCQR 2008 Fall Rally" enctype="text/plain">
+    <table width="750" align="center" bordercolordark="#7E7F7A" bordercolorlight="#7E7F7A" border="1" class="namo-table">
+        <tr>
+                        <th width="100%" colspan="2" bgcolor="#BABABA">                            
+                <h1 class="namo-sublist" align="center">                            GCQR 
+                - Team Roster Form</h1>
+                <address>
+Please complete this form and click the &quot;Send&quot; button to submit it 
+                to 
+                the Quiz Master.
+                </address>
+                <address>
+                <font color="#336600">To update&nbsp;a roster already submitted, 
+                please fill in the top section and describe changes (additions, 
+                substitutions, etc.) in the Comments box at the bottom. You 
+                don't need to re-enter all team members.</font>
+                </address>
+</th>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA">                            <p align="right"><font size="2">Assembly 
+                Name</font></p>
+                        </th>
+                        <td class="namo-th">													
+                            <p align="left"><input type="text" name="Assembly Name" size="60"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA"><p align="right"><font size="2">Coaches 
+                Name </font></th>
+            <td>
+                <p><input type="text" name="Coaches Name" size="60"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA"><p align="right"><font size="2">Your 
+                E-Mail  </font></th>
+            <td>
+                <p><input type="text" name="Coach e-Mail" size="60"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA">
+                <p align="right"><font size="2">What team is this roster for?</font></p>
+</th>
+            <td>
+                <p><select name="Team" size="1">
+                <option value="Senior 1">Senior 1</option>
+                <option value="Senior 2">Senior 2</option>
+                <option value="Junior 1">Junior 1</option>
+                <option value="Junior 2">Junior 2</option>
+                </select></p>
+</td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA"><p align="right"><font size="2">Does 
+                this team count for points?</font></th>
+            <td>
+														<select name="Does Team Count for Points" size="1">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+                </select></td>
+        </tr>
+        <tr>
+                        <th width="100%" class="namo-th" bgcolor="#BABABA" colspan="2" height="1">
+                <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team 
+                Members:														</th>
+        </tr>
+                    <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA">
+                <p>Number</p>
+</th>
+                        <td class="namo-th" bgcolor="#BABABA">														
+                <p><b>Name</b></p>
+</td>
+                    </tr>
+                    <tr>
+                        <th width="140" class="namo-th">
+                <p align="center">1 (Captain)</th>
+                        <td class="namo-th">														
+                            <p align="left"><input type="text" name="Team Member 1 (Captain)" size="40"></td>
+                    </tr>
+                    <tr>
+                        <th width="140" class="namo-th">                            
+                <p align="center">2                        </th>
+                        <td class="namo-th">														
+                            <p align="left"><input type="text" name="Team Member 2" size="40"></td>
+                    </tr>
+                    <tr>
+                        <th width="140" class="namo-th">
+                <p align="center">3</th>
+                        <td class="namo-th">														
+                            <p align="left"><input type="text" name="Team Member 3" size="40"></td>
+                    </tr>
+                    <tr>
+                        <th width="140" class="namo-th">                            
+                <p align="center">4                        </th>
+                        <td class="namo-th">														
+                            <p align="left"><input type="text" name="Team Member 4" size="40"></td>
+                    </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>5</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 5" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>6</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 6" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>7</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 7" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>8</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 8" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>9</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 9" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>10</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 10" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>11</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 11" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>12</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 12" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>13</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 13" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>14</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 14" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th">
+                <p>15</p>
+</th>
+                        <td class="namo-th">
+                            <p align="left"><input type="text" name="Team Member 15" size="40"></td>
+        </tr>
+        <tr>
+                        <th width="140" class="namo-th" bgcolor="#BABABA">
+                <p align="right"><font size="2">Comments</font></th>
+                        <td class="namo-th">
+                            <p align="left"><textarea name="Comments" rows="6" cols="60"></textarea></td>
+        </tr>
+        <tr>
+                        <td width="100%" align="right" class="namo-th" height="24" colspan="2">                <p align="center"><font size="2"><input type="submit" value="Send"> <input type="reset" value="Reset"> 
+                Note: When sending the form, you may see a couple of pop-ups 
+                asking something like if you want to send the form with your default e-mail 
+                program. You do. Thanks, the Webmaster.</font></td>
+        </tr>
+    </table>
+</form>
+            <p align="center"><a href="coaches.html"><img src="graphics/nth_theme_vector_triangle_clips_back.gif" border="0" alt="Click here to return to the For Teams page." class="namo-backward"></a>&nbsp;After 
+sending this form, <a href="coaches.html">click here to return to the GCQR site</a>.</p>
+</body>
+
+</html>

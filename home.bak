@@ -1,0 +1,108 @@
+<html>
+
+<head>
+<title>Navigation 01</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor v5.0">
+<meta name="description" content="Inserts a document layout with a banner on the top and a navigation bar on the left.">
+<meta name="namo-theme" content="Theme\Vector\Triangle Clips">
+<style><!--
+body { color:rgb(23,32,78); font-family:±¼¸²;}
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:rgb(26,67,85); font-size:12pt; font-family:±¼¸²;}
+h2 { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-list { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-sublist { color:rgb(43,43,31); font-size:10pt; font-family:±¼¸²;}
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+--></style>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+    <table width="820" cellspacing="0" bordercolordark="white" bordercolorlight="white" align="center" cellpadding="0">
+        <tr>
+            <td width="744" bgcolor="#C2E2CE">
+            <p align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" width="800" height="180" align="absmiddle">
+            <param name="movie" value="graphics/GCQR.swf">
+            <param name="play" value="true">
+            <param name="loop" value="true">
+            <param name="quality" value="high">
+            <embed src="graphics/GCQR.swf" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="800" height="180"></embed>
+            </object></p>
+</td>
+        </tr>
+        <tr>
+            <td width="744" height="26">
+            <!--NAMO_NAVBAR_START S H C       -1 34 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_34_home_shh.gif" name="nav_home_SH0" 
+border="0" class="namo-hibutton2" alt="Home" align="texttop"><a href="next_rally.html"  
+onmouseover="na_change_img_src('nav_home_SH1', 'document', 'nav/nav_34_newfile_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_home_SH1', 'document');"><img src="nav/nav_34_newfile_sh.gif" name="nav_home_SH1" 
+border="0" class="namo-button2" alt="Upcoming Rally" align="texttop"></a></div>
+            <!--NAMO_NAVBAR_END-->            </td>
+        </tr>
+        <tr>
+            <td width="744" bgcolor="#99CCFF"><!--NAMO_NAVBAR_START T H C h     0 34 3 5 4 6 -->
+<div align="center">
+</div>
+            <!--NAMO_NAVBAR_END--></td>
+        </tr>
+        <tr>
+            <td width="744" bgcolor="#99CCFF">
+                
+        <p align="right"> &nbsp;</p>
+            </td>
+        </tr>
+    </table>
+    <table border="0" width="820" align="center" cellspacing="0">
+        <tr>
+            <td width="799" bgcolor="#99CCFF">
+                <p align="center">&nbsp;This must be where the content goes.</p>
+                
+        <p align="center">&nbsp;</p>
+                </td>
+        </tr>
+    </table>
+    <table border="0" width="820" align="center" cellspacing="0">
+        <tr>
+            <td width="798" valign="top" bgcolor="#FFFFCC">
+                
+        <p align="center">And the footer info...</p>
+            <!--NAMO_NAVBAR_START T h C h     0 34 3 5 4 6 -->
+<div align="center">
+</div>
+            <!--NAMO_NAVBAR_END--></td>
+        </tr>
+    </table>
+<p>&nbsp;</p>
+</body>
+
+</html>

@@ -1,0 +1,265 @@
+<html>
+
+<head>
+<title>Coaches</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Namo WebEditor v5.0">
+<meta name="description" content="Tool for teams, such as the rulebook and registration forms">
+<meta name="namo-theme" content="UserLib\custom\Theme\Triangle Clips">
+<style><!--
+body { color:rgb(23,32,78); font-family:±¼¸²;}
+th { color:rgb(23,32,78); font-family:±¼¸²;}
+td { color:rgb(23,32,78); font-family:±¼¸²;}
+h1 { color:rgb(26,67,85); font-size:12pt; font-family:±¼¸²;}
+h2 { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-list { color:rgb(43,43,31); font-size:12pt; font-family:±¼¸²;}
+p.namo-sublist { color:rgb(43,43,31); font-size:10pt; font-family:±¼¸²;}
+a:visited { text-decoration:none;}
+a:active { text-decoration:none;}
+--></style>
+<script language="JavaScript">
+<!--
+function na_open_window(name, url, left, top, width, height, toolbar, menubar, statusbar, scrollbar, resizable)
+{
+  toolbar_str = toolbar ? 'yes' : 'no';
+  menubar_str = menubar ? 'yes' : 'no';
+  statusbar_str = statusbar ? 'yes' : 'no';
+  scrollbar_str = scrollbar ? 'yes' : 'no';
+  resizable_str = resizable ? 'yes' : 'no';
+  window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
+}
+
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="white" text="#17204E" link="#00338D" vlink="#00338D" alink="#00BEFD">
+<table border="0" width="760" align="center" cellspacing="5">
+    <tr>
+        <td width="760" align="center"><font size="5"><b><!--NAMO_NAVBAR_START B H C       -1 37 3 5 4 6 -->
+<div align="center">
+<img src="nav/nav_37_teams_bhb.gif" name="nav_teams_BH0" 
+border="0" class="namo-banner" alt="Coaches" align="texttop"></div>
+            <!--NAMO_NAVBAR_END--></b></font></td>
+    </tr>
+</table>
+<table border="0" width="750" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="760" bgcolor="#CCCCCC"><!--NAMO_NAVBAR_START S H C       -1 38 3 5 4 6 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_teams_SH0', 'document', 'nav/nav_38_index_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_teams_SH0', 'document');"><img src="nav/nav_38_index_sh.gif" name="nav_teams_SH0" 
+border="0" class="namo-button2" alt="Home" align="texttop"></a><a href="about.html"  
+onmouseover="na_change_img_src('nav_teams_SH1', 'document', 'nav/nav_38_about_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_teams_SH1', 'document');"><img src="nav/nav_38_about_sh.gif" name="nav_teams_SH1" 
+border="0" class="namo-button2" alt="About GCQR" align="texttop"></a><a href="next.html"  
+onmouseover="na_change_img_src('nav_teams_SH2', 'document', 'nav/nav_38_next_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_teams_SH2', 'document');"><img src="nav/nav_38_next_sh.gif" name="nav_teams_SH2" 
+border="0" class="namo-button2" alt="Next Rally" align="texttop"></a><a href="past.html"  
+onmouseover="na_change_img_src('nav_teams_SH3', 'document', 'nav/nav_38_past_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_teams_SH3', 'document');"><img src="nav/nav_38_past_sh.gif" name="nav_teams_SH3" 
+border="0" class="namo-button2" alt="Past Rallies" align="texttop"></a><img src="nav/nav_38_teams_shh.gif" name="nav_teams_SH4" 
+border="0" class="namo-hibutton2" alt="Coaches" align="texttop"><a href="links.html"  
+onmouseover="na_change_img_src('nav_teams_SH5', 'document', 'nav/nav_38_links_shr.gif', true);"
+onmouseout="na_restore_img_src('nav_teams_SH5', 'document');"><img src="nav/nav_38_links_sh.gif" name="nav_teams_SH5" 
+border="0" class="namo-button2" alt="Links" align="texttop"></a></div>
+            <!--NAMO_NAVBAR_END--></td>
+    </tr>
+</table>
+<table width="760" cellpadding="0" cellspacing="5" align="center">
+    <tr>
+        <td width="400" valign="middle" bgcolor="#F0F0F0" style="padding:5;">
+            <p><a href="#Participating_Assemblies">Addresses and contact information</a> 
+            for participating assemblies can be found at the very bottom of 
+            this page.</p>
+            <p>Improved versions of registration and roster forms are in the 
+            works and will be available closer to the '09 Spring Rally date. 
+            Coaches please send any comments or suggestions about the forms 
+            to the webmaster (Jeremy) by clicking <a href="mailto:webmaster@overbrookchapel.org?subject=Comments and Suggestions for the GCQR Forms">here</a>.</p>
+            <p>Registration Form - <img src="graphics/document_text.gif" width="23" height="28" border="0" alt="Registration Form"></p>
+            <p>Roster Form - <img src="graphics/document_text.gif" width="23" height="28" border="0" alt="Registration Form"></p>
+</td>
+        <td width="200" valign="top" bgcolor="white" bordercolor="white">
+            <p><img src="graphics/graphic5.jpg" width="200" height="400" border="0"></p>
+        </td>
+        <td width="150" valign="middle" bgcolor="#FFD972" style="padding-top:0px; padding-right:3px; padding-bottom:0px; padding-left:3px;">
+            <h2 style="margin-top:0; margin-bottom:0;">Downloads:</h2>
+            <p style="margin-top:0; margin-bottom:0;"><a href="javascript:na_open_window('GCQR_Rule_Book', 'docs/QuizRallyRuleBook-2007.pdf', 0, 0, 750, 550, 0, 0, 0, 0, 1)" target="_self"><img src="graphics/bullet_13.gif" width="6" height="10" border="0" alt="bullet_13.gif">Rules</a></p>
+            <p style="margin-top:0; margin-bottom:0;"><a href="javascript:na_open_window('GCQR_Rule_Book', 'docs/QuizRallyRuleBook-2007.pdf', 0, 0, 750, 550, 0, 0, 0, 0, 1)" target="_self"><img src="graphics/bullet_13.gif" width="6" height="10" border="0" alt="bullet_13.gif"></a><a href="javascript:na_open_window('Seniors', 'http://www.biblegateway.com/passage/index.php?search=James%201-5&version=50&interface=print', 0, 0, 750, 550, 0, 1, 0, 1, 1)" target="_self">Senior&nbsp;Passage</a></p>
+            <p style="margin-top:0; margin-bottom:0;"><a href="javascript:na_open_window('GCQR_Rule_Book', 'docs/QuizRallyRuleBook-2007.pdf', 0, 0, 750, 550, 0, 0, 0, 0, 1)" target="_self"><img src="graphics/bullet_13.gif" width="6" height="10" border="0" alt="bullet_13.gif"></a><a href="javascript:na_open_window('Seniors', 'http://www.biblegateway.com/passage/index.php?search=James%201-2&version=50&interface=print', 0, 0, 750, 550, 0, 1, 0, 1, 1)" target="_self">Junior&nbsp;Passage</a></p>
+            <h2 style="margin-top:18; margin-bottom:0;">Forms:</h2>
+            <p style="margin-top:0; margin-bottom:0;"><a href="javascript:na_open_window('GCQR_Rule_Book', 'docs/QuizRallyRuleBook-2007.pdf', 0, 0, 750, 550, 0, 0, 0, 0, 1)" target="_self"><img src="graphics/bullet_13.gif" width="6" height="10" border="0" alt="bullet_13.gif"></a>Registration 
+            Form</p>
+            <p style="margin-top:0; margin-bottom:0;"><a href="javascript:na_open_window('GCQR_Rule_Book', 'docs/QuizRallyRuleBook-2007.pdf', 0, 0, 750, 550, 0, 0, 0, 0, 1)" target="_self"><img src="graphics/bullet_13.gif" width="6" height="10" border="0" alt="bullet_13.gif"></a>Team 
+            Roster Form</p>
+            <p style="margin-top:0; margin-bottom:0;"><i>Note: Improved forms 
+            will be available for the '09 Spring Rally closer to the event.</i></p>
+        </td>
+    </tr>
+</table>
+<table border="0" width="750" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td width="750" bgcolor="#CCCCCC" bordercolor="white">
+            <p align="center"><img src="graphics/GCQR.jpg" width="720" height="180" border="0"></p>
+        </td>
+    </tr>
+</table>
+<table align="center" style="margin-top:5;" border="0" cellpadding="0" cellspacing="0" width="750" bgcolor="#F0F0F0">
+    <tr>
+        <td width="1173">
+            <h3 style="margin-top:6pt; margin-bottom:6pt;" align="center">Locations 
+            and Contact Information of Participating Assemblies</h3>
+            <table align="center" border="1" cellspacing="0" width="746" bordercolordark="white" bordercolorlight="black">
+ <tr height=17 style='height:12.75pt'>
+  <td class=xl22 width="27%" style='height:12.75pt;width:164pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4><a name="Participating_Assemblies"></a>Rally
+  Location</h4>
+</td>
+  <td class=xl22 width="26%" style='width:149pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4>Address</h4>
+</td>
+  <td class=xl22 width="12%" style='width:58pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4>City</h4>
+</td>
+  <td class=xl22 style='width:30pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4>State</h4>
+</td>
+  <td class=xl22 width="8%" style='width:35pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4>ZIP</h4>
+</td>
+  <td class=xl22 width="21%" style='width:192pt' align="center" valign="top" bgcolor="#CCFFCC">
+                        <h4>Phone</h4>
+</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt' width="27%" align="center" valign="top">Washington Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-left:none' width="26%" height="48" align="center" valign="top">808 E Robert Toombs Ave</td>
+  <td class=xl23 style='border-left:none' width="12%" height="48" align="center" valign="top">Washington</td>
+  <td class=xl23 style='border-left:none' height="48" align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-left:none' x:num width="8%" height="48" valign="top">30673</td>
+  <td class=xl23 style='border-left:none' width="21%" height="48" align="center" valign="top">706-678-7812</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Overbrook
+  Gospel Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">26 Overbrook Rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Greenville</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">SC</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">29607</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">864-233-2101</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Believers
+  Gospel Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">3565 Peach Orchard Rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Augusta</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">30906</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">706-793-8906</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Lakeside
+  Bible Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">2034 Augusta Hwy</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Lincolnton</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">30817</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">706-359-5706</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Concord
+  Community Church</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">620 Concord Rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Anderson</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">SC</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">29621</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">864-225-0133</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Grace Bible
+  Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">3935 Whipper Barony
+  Ln</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Charleston</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">SC</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">29405</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">843-554-5358</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height="48" class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Gwinnett
+  Bible Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" height="48" align="center" valign="top">3729 Five Forks
+  Trickum Rd SW</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" height="48" align="center" valign="top">Lilburn</td>
+  <td class=xl23 style='border-top:none;border-left:none' height="48" align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" height="48" valign="top">30047</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" height="48" align="center" valign="top">770-972-4474</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Summerville
+  Bible Fellowship<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" align="center" valign="top">10428 Dorchester Rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" align="center" valign="top">Summerville</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top">SC</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" valign="top">29485</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" align="center" valign="top">843-821-7430</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Camp Hope<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" align="center" valign="top">7011 Pony Lake Rd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" align="center" valign="top">Dahlonega</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" valign="top">30533</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" align="center" valign="top">770-536-4787</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' width="27%" align="center" valign="top">Marietta
+  Bible Chapel<br>&nbsp;</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" align="center" valign="top">2237 Little John
+  Trail</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" align="center" valign="top">Marietta</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" valign="top">30067</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" align="center" valign="top">&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl23 style='height:12.75pt;border-top:none' width="26%" align="center" valign="top">Lake Lanier
+  Bible Chapel</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="26%" align="center" valign="top">2499 Satellite Blvd</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="12%" align="center" valign="top">Buford</td>
+  <td class=xl23 style='border-top:none;border-left:none' align="center" valign="top">GA</td>
+  <td class=xl23 align="center" style='border-top:none;border-left:none' x:num width="8%" valign="top">30518</td>
+  <td class=xl23 style='border-top:none;border-left:none' width="21%" align="center" valign="top">678-318-1080 (H)<br> 678-482-6616 
+                        Ross</td>
+ </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+</html>

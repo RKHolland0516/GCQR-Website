@@ -1,0 +1,108 @@
+<html>
+
+<head>
+<title>Form Mail 01</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="Namo WebEditor v5.0">
+<meta name="description" content="Inserts document layout with a form mail component.">
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<form name="form1" method="post" enctype="text/plain">
+    <table width="500" align="center" bordercolordark="#707070" bordercolorlight="silver" border="1" class="namo-table">
+        <tr>
+                        <th width="494" colspan="2" bgcolor="#CCCCCC">                            <p align="left" class="namo-sublist"> 
+                            Enter a title.</th>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><p><font size="2">Name : </font></th>
+            <td width="373">
+                <p><input type="text" name="customer name"></td>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><p><font size="2">E-Mail : </font></th>
+            <td width="373">
+                <p><input type="text" name="customer email"></td>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><p><font size="2">Telephone</font></th>
+            <td width="373">
+														<input type=text size=4 maxlength=4 name=tel1  onchange=onlyNumber()> - <input type=text size=4 maxlength=4 name=tel2  onchange=onlyNumber()> - <input type=text size=4 maxlength=4 name=tel3  onchange=onlyNumber()></td>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><p><font size="2">FAX : </font></th>
+            <td width="373">
+														<input type=text size=4 maxlength=4 name=tel1  onchange=onlyNumber()> - <input type=text size=4 maxlength=4 name=tel2  onchange=onlyNumber()> - <input type=text size=4 maxlength=4 name=tel3  onchange=onlyNumber()></td>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC">                            <p><font size="2">Room 
+                type</font></p>
+                        </th>
+                        <td width="373" class="namo-th">													
+                            <p align="left"><SELECT NAME="mtype">
+													<option selected>Deluxe</option>
+													<option>Business</option>
+													<option>Executive</option>
+													<option>Suite</option>
+													</SELECT></td>
+        </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><font size="2">Check 
+                Inl</font></th>
+                        <td width="373" class="namo-th">														
+                            <p align="left">
+														<input type=text size=2 maxlength=2 name=a_month onchange=onlyNumber()>/ <input type=text size=2 maxlength=2 name=a_day onchange=onlyNumber() onblur="return re_chk()">/<input name=a_year type=text size=4 maxlength=4 onchange=onlyNumber()></td>
+        </tr>
+                    <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><font size="2">Check 
+                Out</font></th>
+                        <td width="373" class="namo-th">														
+                            <p align="left"><input type=text size=2 maxlength=2 name=a_month onchange=onlyNumber()>/ <input type=text size=2 maxlength=2 name=a_day onchange=onlyNumber() onblur="return re_chk()">/<input name=a_year type=text size=4 maxlength=4 onchange=onlyNumber()></td>
+                    </tr>
+                    <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC">                            <p><font size="2">No. 
+                of Rooms</font></p>
+                        </th>
+                        <td width="373" class="namo-th">														
+                            <p align="left"><select name=room_ea>
+															<option>1</option>
+															<option>2</option>
+															<option>3</option>
+															<option>4</option>
+														</select></td>
+                    </tr>
+                    <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><font size="2">Guests(Adult)</font></th>
+                        <td width="373" class="namo-th">														
+                            <p align="left"><select name=adult_num>
+															<option>1</option>
+															<option>2</option>
+															<option>3</option>
+															<option>4</option>
+														</select></td>
+                    </tr>
+                    <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC">                            <p><font size="2">Guests(Children)</font></p>
+                        </th>
+                        <td width="373" class="namo-th">														
+                            <p align="left"><select name=adult_num>
+															<option>1</option>
+															<option>2</option>
+															<option>3</option>
+															<option>4</option>
+														</select></td>
+                    </tr>
+        <tr>
+                        <th width="117" class="namo-th" bgcolor="#CCCCCC"><font size="2">Remark</font></th>
+                        <td width="373" class="namo-th">
+                            <p align="left"><textarea name="Comment" rows="5" cols="35"></textarea></td>
+        </tr>
+        <tr>
+                        <td width="494" align="right" class="namo-th" height="24" colspan="2">                <p align="center"><font size="2"><input type="submit" value="Submit"> <input type="reset" value="Reset"></font></td>
+        </tr>
+    </table>
+</form>
+            <p>&nbsp;</p>
+</body>
+
+</html>
